@@ -23,4 +23,5 @@ This is a frontend assignment project.
 
 ---
 ## 📸 Screenshots
-
+![Screenshot1](https://drive.google.com/drive/folders/1XUDbMYnjcU8a0OtdjX0fgq3cqUjq-wke)
+![Screenshot2](https://drive.google.com/drive/folders/1XUDbMYnjcU8a0OtdjX0fgq3cqUjq-wke)
