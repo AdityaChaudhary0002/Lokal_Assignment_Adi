@@ -22,3 +22,5 @@ This is a frontend assignment project.
 - Git & GitHub
 
 ---
+## 📸 Screenshots
+
