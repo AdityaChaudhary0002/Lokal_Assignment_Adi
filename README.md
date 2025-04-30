@@ -20,8 +20,3 @@ This is a frontend assignment project.
 - CSS3 / Tailwind CSS
 - JavaScript / React.js 
 - Git & GitHub
-
----
-## 📸 Screenshots
-![Screenshot1](https://drive.google.com/drive/folders/1XUDbMYnjcU8a0OtdjX0fgq3cqUjq-wke)
-![Screenshot2](https://drive.google.com/drive/folders/1XUDbMYnjcU8a0OtdjX0fgq3cqUjq-wke)
